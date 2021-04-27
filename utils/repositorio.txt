@@ -1,0 +1,6 @@
+En este proyecto he analizado las notas de 1000 estudiantes de diferentes nacionalidades en Estados Unidos.
+Mi objetivo ha sido el de comprobar ciertas hipótesis basadas en mis prejuicios en base a la raza, riqueza o género de las personas.
+
+Enlace al repositorio:
+
+https://github.com/danidarko/repositorio
